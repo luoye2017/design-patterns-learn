@@ -1,6 +1,6 @@
-package com.dahua.design.decorator;
+package com.dahua.design.structural.decorator;
 
-public class WFTikTok implements ManTikTok{
+public class WFTiktok implements  ManTiktok{
 
     @Override
     public void tiktok() {
